@@ -17,7 +17,6 @@ class Solution {
         int[] score = {0, 0, 0};
         String bonus = "SDT";
         
-        
         for (int i=0; i<dartResult.length(); i++) {
             char c = dartResult.charAt(i);
             
